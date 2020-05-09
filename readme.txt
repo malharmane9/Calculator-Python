@@ -1,7 +1,3 @@
-Name: 1)Malhar Mane 2)Parth Korat 3)Hengxi Liang
-
-UCInetID: 1)mmane 2)pkorat 3)hengxil
-
 Name of the code: Calculator day and age
 
 Explanation: There are 2 GUI's in this calculator. The user can select any 1 and do all the calculations.
